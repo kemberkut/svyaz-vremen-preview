@@ -1,0 +1,52 @@
+/* Section shells own the full-width backgrounds; content owns its centered layout. */
+.site-section,.site-header,.site-footer{width:100%}
+.site-section{position:relative}
+.site-section--interlude{background:#30372a}
+.site-section--interlude>.interlude{background:transparent}
+.section-container{width:100%;margin-inline:auto}
+.site-header{position:relative;z-index:10;background:var(--paper)}
+.site-footer{background:#30392c}
+.hero-container,.hero-facts-band,.hero-facts-band>.section-container{display:contents}
+.section-background-split{display:none}
+
+@media(min-width:1600px){
+ .site-section{position:relative;isolation:isolate}
+ .site-section>.section-container,.site-header>.section-container,.site-footer>.section-container,
+ .hero-container,.hero-facts-band>.section-container{width:min(100%,var(--content-width));margin-inline:auto}
+ .site-section--hero,.site-section--purchase,.site-section--contacts{background:var(--paper)}
+ .site-section--history,.site-section--features,.site-section--location,.site-section--comfort,
+ .site-section--developer,.site-section--construction,.site-section--appointment{background:#f8f5ef}
+ .site-section--neighbors{background:#f0ece3}
+ .site-section--apartments{background:#f1ede5}
+ .site-section--restoration{background:#f7f4ec}
+ .site-section--calculator{background:#eee6da}
+ .site-section--interlude{background:#30372a;overflow:hidden}
+ .site-section--contacts{overflow:hidden}
+
+ .hero-container,.hero-facts-band,.hero-facts-band>.section-container{display:block}
+ .hero-scene{background:var(--paper)}
+ .hero-background{left:auto;right:0;width:auto;max-width:none;object-fit:contain;object-position:right center;
+  -webkit-mask-image:linear-gradient(to right,transparent,#000 20%);mask-image:linear-gradient(to right,transparent,#000 20%)}
+ .hero-facts-band{background:var(--paper)}
+
+ /* Background images are direct children of the shell, outside the content container. */
+ .site-section--restoration>.restoration,.site-section--interlude>.interlude,
+ .site-section--calculator>.calculator,.site-section--contacts>.contacts{background:transparent}
+ .site-section--contacts>.contacts{position:static}
+ .site-section--interlude>.interlude,.site-section--contacts>.contacts{overflow:visible}
+ .site-section--restoration>.section-backdrop{left:auto;right:0;width:auto;max-width:none;object-fit:contain;object-position:right center;
+  -webkit-mask-image:linear-gradient(to right,transparent,#000 20%);mask-image:linear-gradient(to right,transparent,#000 20%)}
+ .site-section--calculator>.section-backdrop{left:0;right:auto;width:100%;max-width:none;object-fit:cover;object-position:left center;
+  -webkit-mask-image:linear-gradient(to left,transparent,#000 20%);mask-image:linear-gradient(to left,transparent,#000 20%)}
+ .site-section--contacts>.section-backdrop{width:100%;height:100%;max-width:none;object-position:center bottom}
+
+ .site-section--interlude>.section-backdrop{display:none}
+ .section-background-split{display:block;position:absolute;inset:0;pointer-events:none;z-index:0}
+ .section-background-split>img{position:absolute;top:0;height:100%;width:auto;max-width:none;object-fit:contain}
+ .background-left{left:0}.background-right{right:0}
+}
+@media(max-width:767px){
+ .site-section--restoration>.section-backdrop{object-position:63% center;opacity:.2}
+ .site-section--interlude>.section-backdrop{object-position:43% center}
+ .site-section--calculator>.section-backdrop{opacity:.25}
+}
