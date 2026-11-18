@@ -211,7 +211,6 @@
   .hero-background {
     inset:auto 0 0 auto;
     width:74%;
-    height:92%;
     object-fit:cover;
     object-position:58% center;
     -webkit-mask-image:linear-gradient(90deg, transparent, #000 31%);
