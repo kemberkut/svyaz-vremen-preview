@@ -182,6 +182,19 @@
 .developer-image .media-frame>img {height:100%!important;object-fit:cover;object-position:center 53%}
 .developer-gallery>.media-frame {aspect-ratio:2.12!important}
 .developer-gallery>.media-frame>img {height:100%!important;object-fit:cover}
+
+/* Keep this on the original photo in both its card and the image viewer. */
+img[src*="/traditions-exterior-"] {
+  filter:sepia(.07) saturate(.86) brightness(1.065);
+}
+.developer-gallery img[src*="/traditions-exterior-"] {
+  object-position:center 42%;
+  transform:rotate(1.5deg) scale(1.06);
+}
+.image-dialog img[src*="/traditions-exterior-"] {
+  transform:rotate(1.5deg) scale(.96);
+}
+
 .developer-gallery>.media-frame:nth-child(n + 2)>img {filter:brightness(1.14) saturate(.79)}
 .construction-image>.media-frame {aspect-ratio:1.09!important;border-radius:0}
 .construction-image>.media-frame>img {height:100%!important;object-fit:cover;filter:brightness(1.07) contrast(.96) saturate(.92)}
