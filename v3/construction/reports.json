@@ -1,5 +1,66 @@
 [
   {
+    "month": "2026-10",
+    "source": "https://tula.domclick.ru/complexes/sviaz-vremen__126467/hod-stroitelstva",
+    "featured": [
+      1,
+      2,
+      5,
+      7
+    ],
+    "photos": [
+      {
+        "src": "assets/images/construction/2026-10/01.webp?v=e554b95d58a3",
+        "thumb": "assets/images/construction/2026-10/01-480.webp?v=330f1ee7856e",
+        "alt": "Бетонные стены и штабели арматуры на площадке",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-10/02.webp?v=8d6e1b33d816",
+        "thumb": "assets/images/construction/2026-10/02-480.webp?v=3a1bb92bdcf1",
+        "alt": "Проезд на стройплощадку вдоль кирпичного здания",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-10/03.webp?v=1e0daf63f119",
+        "thumb": "assets/images/construction/2026-10/03-480.webp?v=4775c4a82b57",
+        "alt": "Строительная площадка со стороны соседнего дома",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-10/04.webp?v=0c3ab16c46b6",
+        "thumb": "assets/images/construction/2026-10/04-480.webp?v=d9c76053815e",
+        "alt": "Вид на стройплощадку с улицы",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-10/05.webp?v=9da812948fe1",
+        "thumb": "assets/images/construction/2026-10/05-480.webp?v=069f00b59850",
+        "alt": "Щиты опалубки у ограждения",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-10/06.webp?v=694428f8b363",
+        "thumb": "assets/images/construction/2026-10/06-480.webp?v=90107b73af0c",
+        "alt": "Башенный кран и бетонные стены",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-10/07.webp?v=2634c6bfee0d",
+        "thumb": "assets/images/construction/2026-10/07-480.webp?v=26622e687aa0",
+        "alt": "Строительная площадка с краном и арматурой",
+        "width": 480,
+        "height": 360
+      }
+    ]
+  },
+  {
     "month": "2026-09",
     "source": "https://svyaz-vremen.ru/construction/sentyabr-2026/",
     "featured": [
