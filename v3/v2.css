@@ -196,6 +196,10 @@ img[src*="/traditions-exterior-"] {
 }
 
 .developer-gallery>.media-frame:nth-child(n + 2)>img {filter:brightness(1.14) saturate(.79)}
+.construction-heading>.v2-text-link {margin-block-start:10px}
+@media (min-width:1600px) {
+  .construction-heading>.v2-text-link {margin-block-start:50px}
+}
 .construction-image>.media-frame {aspect-ratio:1.09!important;border-radius:0}
 .construction-image>.media-frame>img {height:100%!important;object-fit:cover;filter:brightness(1.07) contrast(.96) saturate(.92)}
 .construction-cards figcaption {padding:calc(var(--u) * 15);font-size:calc(var(--u) * 16)}
