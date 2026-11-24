@@ -184,7 +184,6 @@
 .developer-gallery>.media-frame>img {height:100%!important;object-fit:cover}
 
 .developer-gallery img[src*="/traditions-approved-"] {object-position:center 42%}
-.developer-gallery>.media-frame:nth-child(n + 2)>img {filter:brightness(1.14) saturate(.79)}
 .construction-heading>.v2-text-link {margin-block-start:10px}
 @media (min-width:1600px) {
   .construction-heading>.v2-text-link {margin-block-start:50px}
