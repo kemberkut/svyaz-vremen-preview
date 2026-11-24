@@ -202,6 +202,19 @@ img[src*="/traditions-exterior-"] {
 .office-visual>.media-frame {aspect-ratio:.9!important}
 .office-visual>.media-frame>img {height:100%!important;object-fit:cover;object-position:60% center}
 
+/* Keep this on the original photo in both its card and the image viewer. */
+img[src*="/appointment-facade-"] {
+  filter:sepia(.12) saturate(.84) brightness(1.05);
+}
+.office-visual>.media-frame>img[src*="/appointment-facade-"] {
+  object-position:center 69%;
+  transform:rotate(1deg) scale(1.06);
+}
+.image-dialog img[src*="/appointment-facade-"] {
+  transform:rotate(1deg) scale(.96);
+}
+
+
 .site-section--contacts {overflow:hidden;isolation:isolate}
 .site-section--contacts>.contacts-backdrop {
   top:auto;
