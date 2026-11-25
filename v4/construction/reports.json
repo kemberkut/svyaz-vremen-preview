@@ -1,0 +1,159 @@
+[
+  {
+    "month": "2026-10",
+    "source": "https://tula.domclick.ru/complexes/sviaz-vremen__126467/hod-stroitelstva",
+    "featured": [
+      1,
+      2,
+      5,
+      7
+    ],
+    "photos": [
+      {
+        "src": "assets/images/construction/2026-10/01.webp?v=e554b95d58a3",
+        "thumb": "assets/images/construction/2026-10/01-480.webp?v=330f1ee7856e",
+        "alt": "Бетонные стены и штабели арматуры на площадке",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-10/02.webp?v=8d6e1b33d816",
+        "thumb": "assets/images/construction/2026-10/02-480.webp?v=3a1bb92bdcf1",
+        "alt": "Проезд на стройплощадку вдоль кирпичного здания",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-10/03.webp?v=1e0daf63f119",
+        "thumb": "assets/images/construction/2026-10/03-480.webp?v=4775c4a82b57",
+        "alt": "Строительная площадка со стороны соседнего дома",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-10/04.webp?v=0c3ab16c46b6",
+        "thumb": "assets/images/construction/2026-10/04-480.webp?v=d9c76053815e",
+        "alt": "Вид на стройплощадку с улицы",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-10/05.webp?v=9da812948fe1",
+        "thumb": "assets/images/construction/2026-10/05-480.webp?v=069f00b59850",
+        "alt": "Щиты опалубки у ограждения",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-10/06.webp?v=694428f8b363",
+        "thumb": "assets/images/construction/2026-10/06-480.webp?v=90107b73af0c",
+        "alt": "Башенный кран и бетонные стены",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-10/07.webp?v=2634c6bfee0d",
+        "thumb": "assets/images/construction/2026-10/07-480.webp?v=26622e687aa0",
+        "alt": "Строительная площадка с краном и арматурой",
+        "width": 480,
+        "height": 360
+      }
+    ]
+  },
+  {
+    "month": "2026-09",
+    "source": "https://svyaz-vremen.ru/construction/sentyabr-2026/",
+    "featured": [
+      2,
+      5,
+      9,
+      12
+    ],
+    "photos": [
+      {
+        "src": "assets/images/construction/2026-09/01.webp?v=135bc162b5ef",
+        "thumb": "assets/images/construction/2026-09/01-480.webp?v=dac9a6b3a8d3",
+        "alt": "Строительный кран и арматура на площадке",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "assets/images/construction/2026-09/02.webp?v=01e16f7e1539",
+        "thumb": "assets/images/v2/construction-2-480.webp?v=4849aa626940",
+        "alt": "Опалубка и арматура внутри котлована",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "assets/images/construction/2026-09/03.webp?v=bd75f2f3d646",
+        "thumb": "assets/images/construction/2026-09/03-480.webp?v=cfc0223a534d",
+        "alt": "Вид на бетонную плиту с края площадки",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "assets/images/construction/2026-09/04.webp?v=e3a8146b48a0",
+        "thumb": "assets/images/construction/2026-09/04-480.webp?v=11f771f5e122",
+        "alt": "Арматурные каркасы вдоль опалубки",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "assets/images/construction/2026-09/05.webp?v=be86fc872257",
+        "thumb": "assets/images/v2/construction-5-480.webp?v=d1de417fb94d",
+        "alt": "Участок перекрытия с установленной опалубкой",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-09/06.webp?v=3c233dbacbae",
+        "thumb": "assets/images/construction/2026-09/06-480.webp?v=9faaf54b9154",
+        "alt": "Строительный кран у бетонных стен",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-09/07.webp?v=62d3d38544a4",
+        "thumb": "assets/images/construction/2026-09/07-480.webp?v=eb002bd3125f",
+        "alt": "Общий вид площадки с опалубкой",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-09/08.webp?v=c1481b82ffa8",
+        "thumb": "assets/images/construction/2026-09/08-480.webp?v=f30ea946bc8a",
+        "alt": "Бетонные стены и вертикальная арматура",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-09/09.webp?v=a708ef121fc2",
+        "thumb": "assets/images/v2/construction-9-480.webp?v=4f7e64750264",
+        "alt": "Бетонные стены с проёмами",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-09/10.webp?v=d2d7f1abb80a",
+        "thumb": "assets/images/construction/2026-09/10-480.webp?v=af02a7e50c3a",
+        "alt": "Арматура на бетонном перекрытии",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-09/11.webp?v=248f68d48f51",
+        "thumb": "assets/images/construction/2026-09/11-480.webp?v=ce9d146a87da",
+        "alt": "Опалубка вдоль строительной площадки",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "assets/images/construction/2026-09/12.webp?v=82653b4cbbed",
+        "thumb": "assets/images/v2/construction-12-480.webp?v=adfded98a1e4",
+        "alt": "Край перекрытия со стороны проезда",
+        "width": 480,
+        "height": 360
+      }
+    ]
+  }
+]
