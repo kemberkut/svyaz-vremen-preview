@@ -305,3 +305,9 @@
     font-size:calc(var(--r) * 11);
   }
 }
+
+/* Extend only the quote background; preserve the content geometry. */
+.restoration-quote {
+  box-shadow: 0 0 0 100vmax #eee8da;
+  clip-path: inset(0 -100vmax);
+}
