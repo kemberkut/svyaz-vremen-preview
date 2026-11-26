@@ -312,10 +312,10 @@
   clip-path: inset(0 -100vmax);
 }
 
-/* Enlarge the house by 15% on desktop, keeping its caption in place. */
+/* Enlarge the house by 38% from its original size on desktop, keeping its caption in place. */
 @media (min-width: 1024px) {
   .v2-restoration-photo #goldenblat-illustration {
-    width: 115%;
-    margin-inline: -7.5%;
+    width: 138%;
+    margin-inline: -19%;
   }
 }
