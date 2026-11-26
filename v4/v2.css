@@ -311,3 +311,11 @@
   box-shadow: 0 0 0 100vmax #eee8da;
   clip-path: inset(0 -100vmax);
 }
+
+/* Enlarge the house by 15% on desktop, keeping its caption in place. */
+@media (min-width: 1024px) {
+  .v2-restoration-photo #goldenblat-illustration {
+    width: 115%;
+    margin-inline: -7.5%;
+  }
+}
